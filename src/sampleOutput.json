@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 29,
+"articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "CVS Health Stock Surges on Earnings Beat and Guidance Raise - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/cvs-health-earnings-stock-price-news-998813fa",
+            "urlToImage": null,
+            "publishedAt": "2025-07-31T11:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Moderna to slash 10% of workforce as biotech cuts costs, Covid shot sales slow - CNBC",
+            "description": "In a memo to employees, Moderna CEO Stephane Bancel said the company expects to have fewer than 5,000 workers by the end of the year.",
+            "url": "https://www.cnbc.com/2025/07/31/moderna-to-slash-10percent-of-workforce-amid-covid-vaccine-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108000893-1719932078896-gettyimages-2151784638-MODERNA_RSV_VACCINE.jpeg?v=1753892767&w=1920&h=1080",
+            "publishedAt": "2025-07-31T11:15:01Z",
+            "content": "Moderna on Thursday said it plans to slash roughly 10% of its global workforce by the end of the year, as Covid shot sales continue to dwindle and the company grapples with uncertainty in the vaccine… [+2042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino",
+            "title": "Eli Lilly’s Mounjaro shows heart health benefits in head-to-head trial with older diabetes drug Trulicity - CNBC",
+            "description": "Eli Lilly said it believes the new data bolsters the case for Mounjaro to be prescribers' first choice for patients with Type 2 diabetes.",
+            "url": "https://www.cnbc.com/2025/07/31/eli-lillys-mounjaro-shows-similar-heart-health-benefits-as-trulicity.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108017699-1723057929761-gettyimages-2144475379-porzycki-mounjaro240409_npR7M.jpeg?v=1753903541&w=1920&h=1080",
+            "publishedAt": "2025-07-31T10:45:01Z",
+            "content": "Eli Lilly on Thursday said its blockbuster diabetes drug Mounjaro showed heart health benefits in a late-stage trial directly comparing it to the company's older diabetes treatment, Trulicity.\r\nMounj… [+5786 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Geoff Colvin",
+            "title": "UnitedHealth Group didn’t just miss earnings, it did something far worse - Fortune",
+            "description": "In less than a month, this corporate giant had lost more than half its value.",
+            "url": "https://fortune.com/2025/07/31/unitedhealth-group-earnings-leadership-outlook/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-94952834.jpg?resize=1200,600",
+            "publishedAt": "2025-07-31T10:00:00Z",
+            "content": "UnitedHealth Group, Americas largest healthcare company, shocked investors Tuesday by reporting unexpectedly awful financial performance. Its the second consecutive quarter the company has committed … [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lisa Kailai Han",
+            "title": "S&P 500 futures rise after Meta and Microsoft post quarterly beats: Live updates - CNBC",
+            "description": "Tech giants Meta Platforms and Microsoft reported solid quarterly results Wednesday afternoon. Shares of both companies jumped in extended trading.",
+            "url": "https://www.cnbc.com/2025/07/30/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179347-17539056922025-07-30t195104z_282513745_rc26xfamrp6b_rtrmadp_0_usa-stocks.jpeg?v=1753905797&w=1920&h=1080",
+            "publishedAt": "2025-07-31T07:28:00Z",
+            "content": "S&amp;P 500 futures and Nasdaq 100 futures rose on Thursday morning following solid earnings reports from tech giants Microsoft and Meta Platforms.\r\nS&amp;P 500 futures jumped 0.9%, and Nasdaq 100 fu… [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ford says Trump tariffs to cost it $2bn this year - BBC",
+            "description": "It is the latest indication of the impact of US President Donald Trump's tariffs on big American firms.",
+            "url": "https://www.bbc.com/news/articles/cn47v5gj1nvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c451/live/e91e8270-6dbe-11f0-85b8-89994570494b.jpg",
+            "publishedAt": "2025-07-31T02:49:49Z",
+            "content": "Motor industry giant Ford says it expects tariffs to cost it about $2bn (£1.5bn) this year, which is more than previously expected, despite building most of its cars in America.\r\nThe company says it … [+1525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "How Trump's tariffs are already impacting Americans - BBC",
+            "description": "The US is seeing increased tariffs income, but there are signs of some countries diverting trade from America.",
+            "url": "https://www.bbc.com/news/articles/cr5rm7v5166o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3eb1/live/a5957e90-6d29-11f0-af20-030418be2ca5.jpg",
+            "publishedAt": "2025-07-31T00:31:33Z",
+            "content": "Ben Chu, Daniel Wainwright &amp; Phil Leake\r\nDonald Trump has delivered a profound shock to the global trading system since returning to the White House.\r\nThe US president announced on 2 April, so-ca… [+7021 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Nick Lichtenberg",
+            "title": "Microsoft climbs to $4 trillion in after-hours trading on blowout earnings - Fortune",
+            "description": "\"In our largest quarter of the year, we significantly exceeded expectations,\" CEO Satya Nadella said.",
+            "url": "https://fortune.com/2025/07/30/microsoft-earnings-blowout-fourth-quarter-4-trillion-market-cap-ai/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-1921103583-e1753918598559.jpg?resize=1200,600",
+            "publishedAt": "2025-07-31T00:18:00Z",
+            "content": "Microsoft delivered a blockbuster quarter to close its 2025 fiscal year, riding the wave of surging demand for cloud and AI services and sending its stock to new heights in after-hours trading. For t… [+3833 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Emily Peck",
+            "title": "Trump administration rolls out new Social Security hurdles, then says they're optional - Axios",
+            "description": "The policy would have forced millions more to travel to field offices to change their address or obtain a tax form.",
+            "url": "https://www.axios.com/2025/07/30/social-security-trump-phone-service",
+            "urlToImage": "https://images.axios.com/6y_ZgxrmRYHjG05rb1ZX7pvspdA=/1366x768/smart/2025/05/20/150523-1747753523034.jpg",
+            "publishedAt": "2025-07-31T00:11:05Z",
+            "content": "The Trump administration quietly rushed through a major change to Social Security's phone service policy, but after advocates for the elderly expressed concerns, the agency that oversees the program … [+2942 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Julie Bort",
+            "title": "Figma’s IPO price hit a $19.3B valuation out of the gate - TechCrunch",
+            "description": "In what should be a surprise to no one, Figma priced its IPO shares above its already increased previously announced range.",
+            "url": "https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-777.jpg?resize=1200,800",
+            "publishedAt": "2025-07-30T23:04:41Z",
+            "content": "Figma will begin trading on the New York Stock Exchange on Thursday in one of the most anticipated IPOs of 2025. The IPO is 40x oversubscribed, VCs confirmed to TechCrunch and Bloomberg previously re… [+813 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Zuckerberg says people without AI glasses will be at a disadvantage in the future - TechCrunch",
+            "description": "Mark Zuckerberg really believes AI glasses will be the ideal way to blend the physical and digital worlds together.",
+            "url": "https://techcrunch.com/2025/07/30/zuckerberg-says-people-without-ai-glasses-will-be-at-a-disadvantage-in-the-future/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
+            "publishedAt": "2025-07-30T22:47:30Z",
+            "content": "Echoing sentiments shared in his “superintelligence”-focused blog post this morning, Meta CEO Mark Zuckerberg expanded on his bullish ideas that glasses will be the primary way users interact with AI… [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ben Weiss",
+            "title": "Robinhood ‘hulk smashes’ earnings as push to diversify revenue pays off - Fortune",
+            "description": "The online brokerage saw its quarter-over-quarter revenue jump almost 7%, despite lagging crypto revenue.",
+            "url": "https://fortune.com/crypto/2025/07/30/robinhood-second-quarter-earnings-hulk-smash-diversification/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2223459607-e1753913050834.jpg?resize=1200,600",
+            "publishedAt": "2025-07-30T22:21:00Z",
+            "content": "The online brokerage Robinhood soared past analysts expectations Wednesday when it posted strong financials for the second quarter. It reported a 7% quarter-over-quarter increase in revenue to $989 m… [+2183 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zeyi Yang",
+            "title": "Trump Ends Tariff Exemption for Small Packages - WIRED",
+            "description": "Starting in September, US buyers on sites like Etsy and eBay may face higher tariffs on goods from abroad.",
+            "url": "https://www.wired.com/story/president-trump-suspends-de-minimis/",
+            "urlToImage": "https://media.wired.com/photos/688a6a43cc8f3bb66a9b9682/191:100/w_1280,c_limit/Trump-De-Minimis-Pause-Business-2227052943.jpg",
+            "publishedAt": "2025-07-30T22:17:11Z",
+            "content": "US President Donald Trump just dealt another blow to the embattled ecommerce industry, which is still reeling from sweeping tariffs Trump announced in the spring. On Wednesday, Trump signed an execut… [+2884 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "High Noon voluntarily recalls some vodka seltzer drinks that were mislabeled as Celsius energy drinks - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/GMA/Food/high-noon-voluntarily-recalls-vodka-seltzer-drinks-mislabeled/story?id\\\\u003d124205093",
+            "urlToImage": null,
+            "publishedAt": "2025-07-30T21:23:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Josh Wingrove, Olga Kharif",
+            "title": "Trump Crypto Group Offers Proposals to Boost Digital Finance - Bloomberg.com",
+            "description": "A group charged by President Donald Trump with recommending policies on crypto markets called on federal regulators to use their authority to provide more clear rules on the trading of digital assets and ease the adoption of new financial products in a report…",
+            "url": "https://www.bloomberg.com/news/articles/2025-07-30/trump-crypto-group-unveils-proposals-to-boost-digital-finance",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAt1Zpxskwys/v1/1200x800.jpg",
+            "publishedAt": "2025-07-30T21:12:09Z",
+            "content": "A group charged by President Donald Trump with recommending policies on crypto markets called on federal regulators to use their authority to provide more clear rules on the trading of digital assets… [+341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": null,
+            "title": "These Stocks Respond As Copper Prices Tank After Trump Orders Tariffs On Imports - Investor's Business Daily",
+            "description": "Copper prices declined around 20% Wednesday.",
+            "url": "https://www.investors.com/news/copper-prices-tank-trump-import-tariffs-stock-market-responds/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/06/Stock-TrumpSternScowl-01-shutt.jpg",
+            "publishedAt": "2025-07-30T19:44:00Z",
+            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "7 Jobs Most at Risk from AI Disruption, Microsoft Says - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/7-jobs-disrupted-ai-microsoft-barrons-tech-04482a72",
+            "urlToImage": null,
+            "publishedAt": "2025-07-30T19:04:00Z",
+            "content": null
+        }
+    ]
+}
